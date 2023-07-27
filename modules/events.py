@@ -1,0 +1,21 @@
+event_list = [#('2012-04-01','beschleunigter Lieferantenwechsel (BNetzA)'),
+              #('2013-01-02', 'populäre Zeitungen berichten über Energiepreise und Brennholz-Smog'),
+              #('2021-01-01', 'CO2-Abgabe auf Öl/Gas'),
+              #('2021-10-13', 'Beitrag Tagesthemen: hohe Energiepreise nötig für Klimaschutz'),
+              ('2022-02-24', 'Kriegsausbruch'), 
+              ('2022-03-09', 'Von der Leyen: Aufruf zum Energiesparen'),
+              ('2022-03-31', 'Helmut Dedy fordert Tempolimit'),
+              ('2022-04-15', 'Habeck gibt Spartipps'),
+              #('2022-06-21', 'Diskussion um AKW-Laufzeit'), # https://www.tagesschau.de/inland/innenpolitik/debatte-akw-laufzeitverlaengerung-101.html
+              ('2022-06-24', 'Habeck: Ausruf Alarmstufe'),
+              ('2022-07-26', 'EU beschließt Notfallplan'),
+              ('2022-08-19', 'Kretschmann: Waschlappen statt Dusche'), # Artikel in der Südwest Presse am 18.08.2022, medial aufgegriffen am 19.08.2022
+              #('2022-09-15', 'Auszahlung Energiepreispauschale an Erwerbstätige'),
+              #('2022-09-02', 'Lieferstopp durch Gazprom'),
+              #('2022-09-26', 'Explosion Nord Stream'), 
+              ('2022-09-29', 'Gaspreisbremse statt Gasumlage'),
+              #('2022-11-11', 'Beschluss Verlängerung AKW-Laufzeit'),
+              #('2022-11-25', 'Verabschiedung Gaspreisbremse'),
+              ('2022-12-15', 'Beschluss Gaspreisbremse'),
+              ('2023-04-14', 'Abschaltung AKWs'), 
+]
